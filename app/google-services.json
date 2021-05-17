@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "781855989883",
+    "project_id": "cafe-1ebbf",
+    "storage_bucket": "cafe-1ebbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781855989883:android:e34d03fa51c5c8b93d82de",
+        "android_client_info": {
+          "package_name": "com.example.cafesa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781855989883-8hvjjql97as0eahh8udrh5isfp5bokrj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cafesa",
+            "certificate_hash": "88b09b5afd1ff44719a5dc437302b98ecfd17002"
+          }
+        },
+        {
+          "client_id": "781855989883-r4fqgil5gf1ev7hobr495iue8pm7jdd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAP3OcyZWFq1SddLmPELBxpcnrX--zjSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781855989883-r4fqgil5gf1ev7hobr495iue8pm7jdd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
